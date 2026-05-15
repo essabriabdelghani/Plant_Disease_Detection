@@ -1,0 +1,20 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pth
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Dataset (trop lourd pour GitHub)
+PlantVillage/
+test_images/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+*.log
